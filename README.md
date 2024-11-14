@@ -6,6 +6,6 @@ This program is created as a demonstration on the technicalities of Github, addi
 
 There will be 3 branches:
 
-Main Branch: primary sorter, will take integers, sort from smallest to largest.
-String Branch, will sort an array alphabeticaly.
-Array Reverser, will flip the user's array around.
+Main Branch: Primary sorter, takes String type inputs, will sort an array alphabeticaly.
+Integer Branch will take Integers, sort from smallest to largest.
+Array Reverser Branch, takes String type inputs, will flip the user's array around without sorting.
