@@ -8,4 +8,4 @@ There will be 3 branches:
 
 Main Branch: primary sorter, will take integers, sort from smallest to largest.
 String Branch, will sort an array alphabeticaly.
-Array Joiner/Append, will take an array and add items until the user is satisfied.
+Array Reverser, will flip the user's array around.
