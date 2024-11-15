@@ -1,4 +1,9 @@
 #To create a dynamic array in Python3, we are to use a "list".
+<<<<<<< Updated upstream
+#Commit Check
+=======
+#This is a commit update, check.
+>>>>>>> Stashed changes
 list = []
 while True:
     try:
